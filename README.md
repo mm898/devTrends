@@ -16,3 +16,6 @@ The three questions are:
 
 # 4. Acknowledgements
 Acknowledgements to Kaggle and Stackoverflow for providing the data.
+
+
+You can find the blog post on [Medium](https://medium.com/@mo_hej/developers-trends-in-2017-f41bf1053ee9).
