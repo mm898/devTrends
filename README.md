@@ -10,8 +10,9 @@ The three questions are:
 3. How satisfied are developers in their career?
 
 # 3. File Descriptions
-notebook.ipynb - The jupyter notebook that has the data analysis
-survey_results_public.csv - StackOverflow Survey from 2017
-survey_results_schema.csv - Description of the dataset columns
+- notebook.ipynb - The jupyter notebook that has the data analysis.
+- survey_results_public.csv - StackOverflow Survey from 2017.
+- survey_results_schema.csv - Description of the dataset columns.
 
-# 4. Licensing, Authors, Acknowledgements, etc.
+# 4. Acknowledgements
+Acknowledgements to Kaggle and Stackoverflow for providing the data.
